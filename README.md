@@ -6,7 +6,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 This repository contains an exploratory data analysis(EDA) on the Titanic dataset.
 
 ## Dataset
-The titanic dataset consists of 12 features which are,
+The https://github.com/JasnaNC/PRODIGY_DS_02/blob/main/Titanic_Dataset.csv dataset consists of 12 features which are,
 - PassengerId: A unique identifier for each passenger.
 - Survived: A binary feature indicating whether the passenger survived (1) or did not survive (0) the disaster.
 - Pclass: The passenger class, which is a proxy for socio-economic status. There are three classes: 1st class (luxury), 2nd class (middle class), and 3rd class (economy).
